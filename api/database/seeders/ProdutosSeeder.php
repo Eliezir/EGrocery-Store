@@ -53,9 +53,9 @@ class ProdutosSeeder extends Seeder
             [
                 "id" => 6,
                 "name" => 'Bread',
-                "price" => 1.89,
+                "price" => 2.5,
                 "description" => 'Soft and delicious bread.',
-                "image" => 'https://cdn.shopify.com/s/files/1/0555/9730/1839/products/sola-sweet-and-buttery-keto-bread-front-1_9abbb985-2bf9-4dea-b897-7c079a07b067.png?v=1685983702'
+                "image" => 'https://t3.ftcdn.net/jpg/01/01/87/84/360_F_101878490_QabHiyhdJo9HL2AI5l2RfNblb8ylanPq.jpg'
             ],
             [
                 "id" => 7,
@@ -98,7 +98,7 @@ class ProdutosSeeder extends Seeder
                 "name" => 'Cucumber',
                 "price" => 0.79,
                 "description" => 'Crisp and refreshing cucumbers.',
-                "image" => 'https://mucci-production-user-uploads-bucket.s3.amazonaws.com/images/Product-"image"_MiniCucumbers-rev2.original.png'
+                "image" => 'https://i.pinimg.com/736x/2e/73/ec/2e73ecc3e3f99a101e78fced9bf93519.jpg'
             ],
             [
                 "id" => 13,
