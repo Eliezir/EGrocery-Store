@@ -1,6 +1,7 @@
 <h1 align="center"> EGrocery Store 🛒🛍️ </h1>
 
-![Vue Grocery Store](home-img.png)
+![Vue Grocery Store](readme/home.png)
+![Vue Grocery Store](readme/shopping_cart.png)
 
 ## 🟢 Introdução
 
